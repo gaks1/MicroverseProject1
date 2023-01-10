@@ -3,15 +3,13 @@
 
 
 <div align="center">
-    <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-    <img src="murple_logo.png" alt="logo" width="140" height="auto" />
-    <br />
+    
 
-    <h3><b>Microverse README Template</b></h3>
+    <h1><b>Project</b></h1>
 
 </div>
 
-<!-- TABLE OF CONTENTS -->
+
 
 # 📗 Table of Contents
 
@@ -21,11 +19,10 @@
 - [🙏 Acknowledgements](#acknowledgements)
 
 
-<!-- PROJECT DESCRIPTION -->
+
 
 # 📖 [Hello Microverse] <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
 
 My Hello Microverse project is a beginner programming project for Microverse.
 
@@ -33,7 +30,7 @@ My Hello Microverse project is a beginner programming project for Microverse.
 
 ### Key Features <a name="key-features"></a>
 
-- Hello World landing page
+- Hello Microverse landing page
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -56,7 +53,7 @@ My Hello Microverse project is a beginner programming project for Microverse.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-> Give credit to everyone who inspired your codebase.
+
 
 I would like to thank Microverse Readme files for this file setup.
 
