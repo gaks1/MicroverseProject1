@@ -5,13 +5,13 @@
 <div align="center">
     
 
-    <h1><b>Project</b></h1>
+ # Project
 
 </div>
 
 
 
-# 📗 Table of Contents
+# 📗 Table of Contents 
 
 - [📖 About the Project](#about-project)
 - [Key Features](#key-features)
